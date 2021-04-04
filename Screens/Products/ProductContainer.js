@@ -1,10 +1,12 @@
 import React from 'react'
-import { View, StyleSheet, Text } from 'react-native'
+import { View, StyleSheet, Text, ActivityIndicator } from 'react-native'
 
 const ProductContainer = () => {
     return (
         <View>
-            
+            <Text>
+               Product Container 
+            </Text>
         </View>
     )
 }
